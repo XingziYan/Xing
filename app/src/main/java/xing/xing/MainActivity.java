@@ -11,6 +11,6 @@ Context mContext;
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        Toast.makeText(mContext,"111",Toast.LENGTH_SHORT).show();
+        
     }
 }
